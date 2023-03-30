@@ -31,6 +31,6 @@ function Counter() {
             </form>
         </div>
     )
-}
+} 
 
 export default Counter

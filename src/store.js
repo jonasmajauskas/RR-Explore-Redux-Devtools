@@ -7,4 +7,4 @@ export const store = configureStore({
         counter: counterReducer,
         todos: todoReducer
     }
-})
+}) 
